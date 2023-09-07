@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.grad{
+    color:var(--header-color, blue);
+}
+
+.logo{
+    width: 85px;
+    height: 25px;
+}
+
+.parrafo-uno{
+    font-size: 20px;
+    font-weight: 300;
+    padding:14px 1px 14px 16px;
+}
+
+.parrafo-dos{
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.parrafo-tres{
+    display: inline;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.precio-uno{
+    display: inline;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.precio-dos{
+    display: inline;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.footer{
+    justify-content: center;
+    height:90px;
+    margin:0 auto;
+    padding:12px 0;
+}
+
